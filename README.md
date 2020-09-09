@@ -98,6 +98,10 @@ const blabla = (a, b) => {
 };
 ```
 
+### Implemente uma função que retorno o valor do primeiro elemento
+
+Implemente a função `primeiro` no arquivo `primeiro.js`. Essa função deve receber dois parâmetros e deve retornar o primeiro deles.
+
 ### Implemente uma função que realize a soma de dois números inteiros
 
 Implemente a função `soma` no arquivo `soma.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da soma.
