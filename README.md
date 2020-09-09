@@ -78,6 +78,26 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 * Você vai implementar algumas funções matemáticas
 
+Suponha que um requisito tenha o seguinte texto:
+
+"Implemente a função `blabla` no arquivo `src/vish.js` que receba dois parâmetros e retorne o valor do primeiro parâmetro recebido"
+
+Então você deve localizar a função `blabla` no arquivo `src/vish.js`
+
+`src/vish.js`
+```js
+const blabla = () => {};
+```
+
+e implementar a lógica para cumprir o que foi pedido no requisito.
+
+`src/vish.js`
+```js
+const blabla = (a, b) => {
+  return a;
+};
+```
+
 ### Implemente uma função que realize a soma de dois números inteiros
 
 Implemente a função `soma` no arquivo `soma.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da soma.
