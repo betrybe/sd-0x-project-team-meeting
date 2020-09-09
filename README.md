@@ -98,7 +98,7 @@ const blabla = (a, b) => {
 };
 ```
 
-### Implemente uma função que retorno o valor do primeiro elemento
+### Implemente uma função que retorne o valor do primeiro elemento
 
 Implemente a função `primeiro` no arquivo `src/primeiro.js`. Essa função deve receber dois parâmetros e deve retornar o primeiro deles.
 
@@ -109,6 +109,12 @@ Implemente a função `soma` no arquivo `src/soma.js`. Essa função deve recebe
 ### Implemente uma função que realize a subtração de dois números inteiros
 
 Implemente a função `subtrai` no arquivo `src/subtrai.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da subtração do primeiro menos o segundo parâmetro.
+
+### Implemente uma função que realize a divisão de dois números inteiros
+
+Implemente a função `divide` no arquivo `src/divide.js`. Essa função deve receber dois números inteiros como parâmetros, numerador e divisor respectivamente, e deve retornar o valor da divisão.
+
+A operação de divisão não é definida para o valor 0 (zero), neste caso a função deve retornar a mensagem "Operação inválida".
 
 ## Requisitos Bônus:
 

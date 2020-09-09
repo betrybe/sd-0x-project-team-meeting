@@ -1,6 +1,6 @@
 const primeiro = require('../src/primeiro');
 
-describe('Implemente uma função que retorno o valor do primeiro elemento', () => {
+describe('Implemente uma função que retorne o valor do primeiro elemento', () => {
   it('retorna 2', () => {
     expect(primeiro(2, 0)).toBe(2);
   });
