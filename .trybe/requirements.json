@@ -1,0 +1,6 @@
+{
+  "requirements": [{
+    "description": "Implemente uma função que realize a soma de dois números inteiros",
+    "bonus": false
+  }]
+}

@@ -16,7 +16,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     * `sd-0x-projet-team-meeting`
 
 2. Instale as dependências [**Caso existam**]
-  * `npm install` [**exemplo**]
+  * `npm install`
 
 3. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
@@ -55,7 +55,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 # Entregáveis
 
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório. Este Pull Request deverá conter os arquivos que conterão seu código `[Exemplo: HTML, CSS e JavaScript]`, respectivamente.
+Para entregar o seu projeto você deverá criar um Pull Request neste repositório. Este Pull Request deverá conter os arquivos que conterão seu código.
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
 
@@ -70,79 +70,22 @@ O projeto tem até a seguinte data: `DD/MM/YYYY - 14:00h`. Para ser entregue a a
 
 ## Requisitos do projeto
 
-### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
-
-![exemplo do resultado](./resultadoFinal.gif)
-
-## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
-
 O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação.
 
 ---
 
-### 👀Observações importantes:
-
-  * [Caso necessario introdução de por onde estudante deve começar]
-
-  * [Ou pontos de atenção sobre possiveis erros comuns ao tentar desenvolver]
-
-  * [Especifiques aqui desta forma]
-
 ## Requisitos Obrigatórios:
 
-* Você vai ... [Descricão | Overview do que sera feito no projeto]
+* Você vai implementar algumas funções matemáticas
 
- **Em outras palavras, uma [aplicaçao de montar foguetes do Elon Musk].** 😜
+### Implemente uma função que realize a soma de dois números inteiros
 
-### n - [Descrição do Requisito]
-
-##### As seguintes verificações serão feitas:
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
-### n + 1 - [Descrição do Requisito]
-
-##### As seguintes verificações serão feitas:
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
-### n + n - [Descrição do Requisito]
-
-##### As seguintes verificações serão feitas:
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
+Implemente a função `soma` no arquivo `soma.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da soma.
 
 ## Requisitos Bônus:
 
-### n - [Descrição do Requisito]
-
-##### As seguintes verificações serão feitas:
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
-- [**Pontos a serem validados neste requisito**]
-
 ---
 
-## Dicas
-
-- [Caso haja alguma dica de desenvolvimento]
-
-- [Ou pontos para o estudante dar uma revisada para realizar este projeto]
-
-- [Coloque os aqui]
-
----
 ### DURANTE O DESENVOLVIMENTO
 
 * Faça `commits` das alterações que você fizer no código regularmente
