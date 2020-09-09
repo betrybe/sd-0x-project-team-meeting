@@ -88,6 +88,24 @@ Implemente a função `subtrai` no arquivo `subtrai.js`. Essa função deve rece
 
 ## Requisitos Bônus:
 
+### Implemente uma função que faça a sequência de Fibonacci
+
+referência: https://www.todamateria.com.br/sequencia-de-fibonacci/
+
+Implemente a função `fibonacci` no arquivo `fibonacci.js`. Essa função deve receber um parâmetro inteiro e deve retornar o valor da sequência para aquele parâmetro.
+
+Exemplo:
+
+```js
+fibonacci(0) deve retornar 1
+fibonacci(1) deve retornar 1
+fibonacci(2) deve retornar 2
+fibonacci(3) deve retornar 3
+fibonacci(4) deve retornar 5
+fibonacci(5) deve retornar 8
+...
+```
+
 ---
 
 ### DURANTE O DESENVOLVIMENTO
