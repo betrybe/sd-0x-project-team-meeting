@@ -82,6 +82,10 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 Implemente a função `soma` no arquivo `soma.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da soma.
 
+### Implemente uma função que realize a subtração de dois números inteiros
+
+Implemente a função `subtrai` no arquivo `subtrai.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da subtração do primeiro menos o segundo parâmetro.
+
 ## Requisitos Bônus:
 
 ---
