@@ -100,15 +100,15 @@ const blabla = (a, b) => {
 
 ### Implemente uma função que retorno o valor do primeiro elemento
 
-Implemente a função `primeiro` no arquivo `primeiro.js`. Essa função deve receber dois parâmetros e deve retornar o primeiro deles.
+Implemente a função `primeiro` no arquivo `src/primeiro.js`. Essa função deve receber dois parâmetros e deve retornar o primeiro deles.
 
 ### Implemente uma função que realize a soma de dois números inteiros
 
-Implemente a função `soma` no arquivo `soma.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da soma.
+Implemente a função `soma` no arquivo `src/soma.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da soma.
 
 ### Implemente uma função que realize a subtração de dois números inteiros
 
-Implemente a função `subtrai` no arquivo `subtrai.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da subtração do primeiro menos o segundo parâmetro.
+Implemente a função `subtrai` no arquivo `src/subtrai.js`. Essa função deve receber dois números inteiros como parâmetros e deve retornar o valor da subtração do primeiro menos o segundo parâmetro.
 
 ## Requisitos Bônus:
 
@@ -116,7 +116,7 @@ Implemente a função `subtrai` no arquivo `subtrai.js`. Essa função deve rece
 
 referência: https://www.todamateria.com.br/sequencia-de-fibonacci/
 
-Implemente a função `fibonacci` no arquivo `fibonacci.js`. Essa função deve receber um parâmetro inteiro e deve retornar o valor da sequência para aquele parâmetro.
+Implemente a função `fibonacci` no arquivo `src/fibonacci.js`. Essa função deve receber um parâmetro inteiro e deve retornar o valor da sequência para aquele parâmetro.
 
 Exemplo:
 
